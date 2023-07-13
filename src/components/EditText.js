@@ -29,7 +29,7 @@ const styles = StyleSheet.create({
     paddingHorizontal: 8
   },
   input: {
-		color: Colors.bgColor
+		color: 'black'
   },
   iconEye: {
     width: 24,

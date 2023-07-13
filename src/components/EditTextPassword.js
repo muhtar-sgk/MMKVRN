@@ -38,7 +38,7 @@ const styles = StyleSheet.create({
   input: {
     width: '70%',
     maxWidth: '70%',
-		color: Colors.bgColor
+		color: 'black'
   },
   iconEye: {
     width: 24,
